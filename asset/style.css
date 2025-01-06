@@ -666,7 +666,7 @@ img {
     height: 20rem;
 
     margin: 4rem;
-/*     margin-top: 5rem; */
+    margin-top: 0rem;
   }
   .about-section .about-container {
     height: fit-content;
